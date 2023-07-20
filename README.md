@@ -44,7 +44,7 @@ Similar projects
 
     Uses a CTI OSC5A2B02. 4 outputs.
 
-    The output filter might have been designed by [this RF filter design tool]](https://rf-tools.com/lc-filter/)
+    The output filter might have been designed by [this RF filter design tool](https://rf-tools.com/lc-filter/)
 
     ![LC filter parameters](./docs/LC_filter.png)
     
