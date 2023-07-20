@@ -44,6 +44,11 @@ Similar projects
 
     Uses a CTI OSC5A2B02. 4 outputs.
 
+    The output filter might have been designed by [this RF filter design tool]](https://rf-tools.com/lc-filter/)
+
+    ![LC filter parameters](./docs/LC_filter.png)
+    
+
 * [Building a 10MHz Master Clock](https://www.paulvdiyblogs.net/2023/07/building-10mhz-master-clock.html)
 
 * [10MHz OCXO Master Clock nabouw topic](https://www.circuitsonline.net/forum/view/126987/1)
